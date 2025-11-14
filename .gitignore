@@ -68,3 +68,7 @@ docker-compose.override.yml
 *.bak
 *.tmp
 *.swp
+
+#Backend
+backend/tasklist/settings.py
+backend/tasklist/settings/__pycache__/
